@@ -900,10 +900,14 @@ section,
   font-weight: 400;
 }
 
+.hero .hero-img {
+  margin: 20px;
+}
+
 @media (min-width: 768px) {
-  .hero .hero-img {
+  /* .hero .hero-img {
     max-width: 600px;
-  }
+  } */
 }
 
 .hero .btn-get-started {
